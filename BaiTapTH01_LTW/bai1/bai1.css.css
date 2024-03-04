@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.content {
+          display: flex;
+          justify-content: center;
+          gap: 10px;
+          margin: 10px;
+        }
+button {
+        padding: 15px 20px;
+        background-color: black;
+        color: white;
+        border-radius: 5px;
+        text-decoration: none;
+        }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80px;
+    height: 80px;
+}
+div {
+    display: flex;
+    justify-content: center;
+}

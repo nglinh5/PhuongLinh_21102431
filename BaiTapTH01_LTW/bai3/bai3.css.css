@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+li {
+    list-style-type: none;
+}
+button {
+    background-color: skyblue;
+    color: white;
+    padding: 10px 20px;
+    border: white;    
+}
